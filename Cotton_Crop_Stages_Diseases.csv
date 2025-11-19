@@ -1,0 +1,19 @@
+Days from Sowing (Start),Stage Duration (days),Crop Stage,Crop Disease
+0,5,Seed Treatment & Sowing,"Seed rot / damping-off (Rhizoctonia, Pythium)"
+0,5,Seed Treatment & Sowing,Seedling blight (Fusarium spp.)
+7,10,Germination & Emergence,Seedling blight (Fusarium spp.)
+7,10,Germination & Emergence,Root rot (Rhizoctonia solani)
+20,30,Vegetative Growth,Alternaria leaf spot
+20,30,Vegetative Growth,Bacterial blight
+20,30,Vegetative Growth,Fusarium wilt
+45,15,Square Formation,Gray mildew
+45,15,Square Formation,Leaf curl virus
+60,20,Flowering,Alternaria leaf spot
+60,20,Flowering,Leaf curl virus
+60,20,Flowering,Boll rot
+85,25,Boll Development,Boll rot complex
+85,25,Boll Development,Anthracnose
+115,15,Maturity,Boll rot
+115,15,Maturity,Sooty mold
+130,10,Harvest,Boll rot remnants
+130,10,Harvest,Fungal staining
